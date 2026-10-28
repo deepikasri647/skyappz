@@ -1,4 +1,4 @@
-name: CardioCare CI-CD
+name: Skyappz pipeline
 
 on:
   push:
